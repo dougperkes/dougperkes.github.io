@@ -1,14 +1,14 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Doug Perkes
+email: doug@dougperkes.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  My name is Doug Perkes. I'm a geek, a programmer, a husband and father. I work out of my 
+  home office in Peoria, Arizona as a Technical Evangelist for the Microsoft Developer & Platform
+  Evangelism team. 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://dougperkes.github.io" # the base hostname & protocol for your site
+twitter_username: dougperkes
+github_username:  dougperkes
 
 # Build settings
 markdown: kramdown
