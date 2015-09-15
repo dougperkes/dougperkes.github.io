@@ -1,3 +1,7 @@
+---
+layout: page
+title: About
+---
 # Hackathon Time! #
 
 I'm actually really looking forward to the hackathon tomorrow. I plan to spend some time working with Office Javascript API and will get a jump on my Agile Life Managment project. 
